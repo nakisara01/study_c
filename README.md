@@ -1,0 +1,2 @@
+# study_c
+ajou_univ_subject_computer_programming_training
